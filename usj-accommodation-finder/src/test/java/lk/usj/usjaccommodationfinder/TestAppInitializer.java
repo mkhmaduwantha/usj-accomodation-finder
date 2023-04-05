@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Test App Initializer class
  *
- * @author Kalinga Dissanayake
- * ------12 April, 2020
+ * @author Hashan maduwantha
+ * ------5 April, 2023
  */
 @Configuration
 @ComponentScan({"lk.usj.*"})
